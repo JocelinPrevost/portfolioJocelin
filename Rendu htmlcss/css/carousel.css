@@ -1,0 +1,13 @@
+.carousel-inner img {
+    margin: auto;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.carousel-control-prev {
+    margin: 250px;
+}
+
+.carousel-control-next {
+    margin: 250px;
+}

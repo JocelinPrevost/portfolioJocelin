@@ -1,0 +1,28 @@
+@import url(css/images.css);
+@import url(css/titres.css);
+@import url(css/carousel.css);
+
+
+
+body {
+    scroll-behavior: smooth;
+    background-image: url('images/benyafez-studio-JtOa-US2tas-unsplash.jpg');
+}
+
+
+.col-sm-8{
+    display: flex;
+    align-items: center;
+    }
+
+.copyright{
+    display: flex;
+    margin-left: 45%;
+    margin-top: 3%;
+}
+
+.info{
+    display: flex;
+    margin-top: 2.5%;
+    margin-right: 1%;
+}
